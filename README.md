@@ -73,6 +73,10 @@ Part II - VacationPy
 
 For Part II, I used the information found in WeatherPy to determine the ideal destination for a vacation.  By narrowing down ideal temperature, cloudiness and wind speed I was able to plot a heat map with hotel information for locations that matched my dream vacation requirements.
 
+Sample of final heat map:
+
+![heatmap](https://github.com/celeste1030/python-api-challenge/blob/main/Images/hotelheatmapsample.png)
+
 
 
 
