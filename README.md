@@ -59,6 +59,12 @@ Next I ran linear regression on each relationship, only this time separating the
 
 ![swind](https://github.com/celeste1030/python-api-challenge/blob/main/Images/SouthLatitudeVsWindSpeed.png)
 
+Observations:
+
+According to the data, there is a correlation between latitude and maximum temperature.  The closer a city is to the equator, the higher the max temperature will be.
+
+Other factors tested (cloudiness, humidity and wind speed) do not have a correlation to latitude.
+
 --------------------------------------
 
 ![beachy](https://github.com/celeste1030/python-api-challenge/blob/main/extras/beach%20scene.jpg)
@@ -66,6 +72,8 @@ Next I ran linear regression on each relationship, only this time separating the
 Part II - VacationPy
 
 For Part II, I used the information found in WeatherPy to determine the ideal destination for a vacation.  By narrowing down ideal temperature, cloudiness and wind speed I was able to plot a heat map with hotel information for locations that matched my dream vacation requirements.
+
+
 
 
 
