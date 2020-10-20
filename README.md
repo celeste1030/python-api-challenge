@@ -1,6 +1,6 @@
 # python-api-challenge
 
-
+![rainbowclouds](https://github.com/celeste1030/python-api-challenge/blob/main/extras/rainbowweather.jpg)
 
  Part I - WeatherPy
 
@@ -24,6 +24,9 @@ Next I ran linear regression on each relationship, only this time separating the
 * Southern Hemisphere - Cloudiness (%) vs. Latitude
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
+
+
+![beachy](https://github.com/celeste1030/python-api-challenge/blob/main/extras/beach%20scene.jpg)
 
 Part II - VacationPy
 
