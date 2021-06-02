@@ -75,7 +75,7 @@ For Part II, I used the information found in WeatherPy to determine the ideal de
 
 Sample of final heat map:
 
-![heatmap](https://github.com/celeste1030/python-api-challenge/blob/main/Images/hotelheatmapsample.png)
+![heatmapfun](https://github.com/celeste1030/python-api-challenge/blob/main/Images/hotelheatmapsample.png)
 
 
 
